@@ -1,0 +1,55 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Clipboard Solid back template -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,24 c-2.2,0 -4,1.8 -4,4 v52 c0,2.2 1.8,4 4,4 h36 c2.2,0 4,-1.8 4,-4 v-52 c0,-2.2 -1.8,-4 -4,-4 H36 z" />
+        
+    <!-- Clipboard Top metallic lock clip -->
+    <path
+        android:fillColor="#1158A8"
+        android:pathData="M46,18 h16 c1.1,0 2,0.9 2,2 v6 H44 v-6 c0,-1.1 0.9,-2 2,-2 z" />
+        
+    <!-- Horizontal lines representing sales orders -->
+    <!-- Row 1 -->
+    <path
+        android:fillColor="#1158A8"
+        android:pathData="M42,34 H60 V37 H42 z" />
+    <!-- Checkmark 1 -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M64,32 L66,34 L71,29 L73,31 L66,38 L62,34 z" />
+        
+    <!-- Row 2 -->
+    <path
+        android:fillColor="#1158A8"
+        android:pathData="M42,46 H58 V49 H42 z" />
+    <!-- Checkmark 2 -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M64,44 L66,46 L71,41 L73,43 L66,50 L62,46 z" />
+
+    <!-- Row 3 -->
+    <path
+        android:fillColor="#D29922"
+        android:pathData="M42,58 H54 V61 H42 z" />
+
+    <!-- Solid modern delivery shipping truck overlapping bottom center -->
+    <path
+        android:fillColor="#238636"
+        android:pathData="M44,66 h14 c1.1,0 2,0.9 2,2 v6 h-18 v-6 c0,-1.1 0.9,-2 2,-2 z" />
+    <path
+        android:fillColor="#3b82f6"
+        android:pathData="M59,69 h6 l4,3 v5 h-10 z" />
+    <!-- Wheels -->
+    <path
+        android:fillColor="#1E1E2F"
+        android:pathData="M46,78 c0.8,0 1.5,-0.7 1.5,-1.5 s-0.7,-1.5 -1.5,-1.5 s-1.5,0.7 -1.5,1.5 s0.7,1.5 1.5,1.5 z" />
+    <path
+        android:fillColor="#1E1E2F"
+        android:pathData="M62,78 c0.8,0 1.5,-0.7 1.5,-1.5 s-0.7,-1.5 -1.5,-1.5 s-1.5,0.7 -1.5,1.5 s0.7,1.5 1.5,1.5 z" />
+</vector>

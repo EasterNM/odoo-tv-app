@@ -1,0 +1,6 @@
+{
+  "name": "Odoo TV Mobile",
+  "description": "Native translation of Odoo PWA dashboards for Bill Receipt and Dispatch Dispatching actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
